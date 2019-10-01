@@ -5,6 +5,7 @@ public class Principal {
 	@Override
 	protected Object clone() throws CloneNotSupportedException {
 		// TODO Auto-generated method stub
+		System.out.prinln("kkkkkk");
 		return super.clone();
 	}
 
